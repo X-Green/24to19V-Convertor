@@ -1,4 +1,4 @@
-(kicad_sch (version 20221206) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
 
@@ -766,7 +766,7 @@
     )
     (pin "1" (uuid 8409f8b0-5c4f-434e-bc72-c3f0cc4108c6))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0112") (unit 1)
         )
@@ -791,7 +791,7 @@
     )
     (pin "1" (uuid faf24b06-a29a-4c48-94c9-d471f9a0a471))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0114") (unit 1)
         )
@@ -817,7 +817,7 @@
     (pin "1" (uuid ceccb392-2642-4d88-961f-7cd7e90564ab))
     (pin "2" (uuid 0a432f4d-eba9-4177-b413-676838e6af3f))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C4") (unit 1)
         )
@@ -842,7 +842,7 @@
     )
     (pin "1" (uuid 4ecb1df4-790d-4620-9d0f-a506a399a01f))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0106") (unit 1)
         )
@@ -868,7 +868,7 @@
     (pin "1" (uuid 8784f4ea-1be1-4ffa-a617-62b6835341e2))
     (pin "2" (uuid 4ced37b2-0f9d-4776-9149-a3a52b42249f))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C5") (unit 1)
         )
@@ -894,7 +894,7 @@
     (pin "1" (uuid dfd5e554-7472-4c67-8eac-c586915c9fe3))
     (pin "2" (uuid 25371e83-26cc-48be-b235-bc9738723db3))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D3") (unit 1)
         )
@@ -922,7 +922,7 @@
     (pin "3" (uuid 561510fd-50da-41ac-8f7a-bd8708299419))
     (pin "4" (uuid 6c140f78-dfb7-4134-8e8b-23dce3217420))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J2") (unit 1)
         )
@@ -948,7 +948,7 @@
     (pin "1" (uuid 6ce17302-1acc-44ef-954b-388efb30727a))
     (pin "2" (uuid 8aaaf40f-590d-47e7-aaa3-850d35ca7e45))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R7") (unit 1)
         )
@@ -973,7 +973,7 @@
     )
     (pin "1" (uuid 49df2ad5-bfef-477a-b04c-0e6041645f96))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0122") (unit 1)
         )
@@ -998,7 +998,7 @@
     )
     (pin "1" (uuid 931feb50-95e9-49b2-a638-bc39a663acb7))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0113") (unit 1)
         )
@@ -1052,7 +1052,7 @@
     (pin "8" (uuid c04676dc-af89-4568-9231-c9d886469934))
     (pin "9" (uuid cc688cd2-08ad-4256-bba2-7e9697424f84))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U1") (unit 1)
         )
@@ -1078,7 +1078,7 @@
     (pin "1" (uuid 2013a229-0b8c-4105-b740-ebff66e1ac4e))
     (pin "2" (uuid 7aa041df-a4c2-44dc-a783-e4ddd2f6e4d3))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R1") (unit 1)
         )
@@ -1104,7 +1104,7 @@
     (pin "1" (uuid 8c0c1945-2832-434d-8d40-0bb09f28fdd5))
     (pin "2" (uuid c3032f8d-dd60-4b8c-b0d8-b2685038b8e7))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C2") (unit 1)
         )
@@ -1130,7 +1130,7 @@
     (pin "1" (uuid a11e1c48-e8e1-41a7-88c2-cd07817150be))
     (pin "2" (uuid 39107c27-2722-49a0-909a-c9fd96f4c6ef))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C1") (unit 1)
         )
@@ -1155,7 +1155,7 @@
     )
     (pin "1" (uuid 1a613bc6-1d83-49de-a5d1-cb6ecebc8fdf))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0116") (unit 1)
         )
@@ -1181,7 +1181,7 @@
     (pin "1" (uuid 56c3f51b-8f5a-46f4-86a9-f36a02ecf522))
     (pin "2" (uuid af7be38a-9d21-4e0a-8fbe-36aeb3572c43))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R8") (unit 1)
         )
@@ -1207,7 +1207,7 @@
     (pin "1" (uuid 3c199580-3857-4cbb-80c1-c4e0c1d91063))
     (pin "2" (uuid 11a28e6c-df1f-4064-9db0-5cba6386d2a4))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C8") (unit 1)
         )
@@ -1235,7 +1235,7 @@
     (pin "3" (uuid 81afd45c-1622-46d9-b131-420d181ef9f1))
     (pin "4" (uuid 8ace5da9-2b66-40c0-b18a-9794602f5923))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J3") (unit 1)
         )
@@ -1260,7 +1260,7 @@
     )
     (pin "1" (uuid e6069b07-f6ac-41f5-ace5-4c9739ce1a00))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0117") (unit 1)
         )
@@ -1286,7 +1286,7 @@
     (pin "1" (uuid 68989688-3aa6-4636-a775-9b4338e7bce3))
     (pin "2" (uuid 5fbddf43-2efa-42a9-a221-73309f90a293))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C7") (unit 1)
         )
@@ -1311,7 +1311,7 @@
     )
     (pin "1" (uuid 07e0cbf5-a97a-44b8-be56-98fb58015157))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0111") (unit 1)
         )
@@ -1337,7 +1337,7 @@
     (pin "1" (uuid 71afea8f-7b10-4a65-91cd-ad37de8eeb42))
     (pin "2" (uuid b2cc7a96-2506-4afc-8a1f-b70900593d86))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R9") (unit 1)
         )
@@ -1362,7 +1362,7 @@
     )
     (pin "1" (uuid 1bbf0344-a952-4f00-bf3c-e7abf5c0f8ba))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0103") (unit 1)
         )
@@ -1388,7 +1388,7 @@
     (pin "1" (uuid 723ce793-4845-42a4-bd05-a1845d7714f6))
     (pin "2" (uuid d0d42729-3930-4442-81b1-f7db10bd7689))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R5") (unit 1)
         )
@@ -1414,7 +1414,7 @@
     (pin "1" (uuid 2330ceed-0ca4-4d7c-b3f2-246106b2cd9a))
     (pin "2" (uuid ccc5e849-5f41-49a6-88b9-c35a4fba3082))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C9") (unit 1)
         )
@@ -1440,7 +1440,7 @@
     (pin "1" (uuid 4cbd7873-db33-4daf-831f-89f5cb785cd7))
     (pin "2" (uuid 6bacd9ba-ac8c-4654-85ad-a3b2e6b1883b))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R2") (unit 1)
         )
@@ -1466,7 +1466,7 @@
     (pin "1" (uuid caa9fac2-dcd4-46f2-913b-e1cf8feb0abe))
     (pin "2" (uuid 486fe30e-72b7-4a49-ab90-6748d7ef6ac3))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C3") (unit 1)
         )
@@ -1491,7 +1491,7 @@
     )
     (pin "1" (uuid e0cc6966-35e4-4736-b37e-f674d5f42e33))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0115") (unit 1)
         )
@@ -1516,7 +1516,7 @@
     )
     (pin "1" (uuid 6a9c8cc1-52bc-4086-8ff2-899f17fed353))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0120") (unit 1)
         )
@@ -1542,7 +1542,7 @@
     (pin "1" (uuid 59f16539-3bc8-4f36-8e74-ef8f6bd20a9c))
     (pin "2" (uuid 3c68602c-c46c-441a-b8c6-dd634475038f))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D1") (unit 1)
         )
@@ -1567,7 +1567,7 @@
     )
     (pin "1" (uuid 4235ef72-6177-44a0-993f-93306f9c9ad4))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0102") (unit 1)
         )
@@ -1592,7 +1592,7 @@
     )
     (pin "1" (uuid 47b96755-77b4-4d1f-b7c7-e83301b841d7))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0107") (unit 1)
         )
@@ -1617,7 +1617,7 @@
     )
     (pin "1" (uuid a4899fc8-73eb-4415-b73f-75d7056dbbda))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0104") (unit 1)
         )
@@ -1642,7 +1642,7 @@
     )
     (pin "1" (uuid edf6d3df-e973-41ce-8a8f-43409804b4a2))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0119") (unit 1)
         )
@@ -1670,7 +1670,7 @@
     (pin "3" (uuid 4e516833-ccd3-48b2-b12d-aeaf4d3cdf52))
     (pin "4" (uuid 92aac007-2846-46a9-8724-d414f4205bc7))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J4") (unit 1)
         )
@@ -1695,7 +1695,7 @@
     )
     (pin "1" (uuid c6568da2-7b8f-4dc3-adc8-3c0fc013fa81))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0108") (unit 1)
         )
@@ -1720,7 +1720,7 @@
     )
     (pin "1" (uuid 066f99e6-5e11-45db-97d2-d30f526b2a20))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0121") (unit 1)
         )
@@ -1748,7 +1748,7 @@
     (pin "3" (uuid f3eba14c-64c6-4e50-b2c6-909ca76eac62))
     (pin "4" (uuid b0701028-ac54-4d77-b728-f88f727ea945))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J1") (unit 1)
         )
@@ -1773,7 +1773,7 @@
     )
     (pin "1" (uuid 51f95260-ce6a-45f8-aad1-3dad38c365b9))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0118") (unit 1)
         )
@@ -1798,7 +1798,7 @@
     )
     (pin "1" (uuid 7de65308-5d59-4104-b781-fe526828aab6))
     (instances
-      (project "24TO19_JYC_RM2023_V0.3_control"
+      (project "ControlBoard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0105") (unit 1)
         )
