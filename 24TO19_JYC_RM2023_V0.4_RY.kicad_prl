@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 39,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -68,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "24TO19_JYC_RM2023_V0.32_RY.kicad_prl",
+    "filename": "24TO19_JYC_RM2023_V0.4_RY.kicad_prl",
     "version": 3
   },
   "project": {

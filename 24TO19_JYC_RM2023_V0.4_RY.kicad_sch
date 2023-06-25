@@ -933,7 +933,6 @@
     )
   )
 
-
   (junction (at 76.2 134.62) (diameter 0) (color 0 0 0 0)
     (uuid 05032692-7202-46b0-8bb4-30f162242302)
   )
@@ -1566,7 +1565,7 @@
     (pin "4" (uuid ca9feb57-9cf1-4b17-aac0-8eb7e03f359e))
     (pin "5" (uuid a0f840e3-e4cc-4398-80af-eab42b30fbb4))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "Q1") (unit 1)
         )
@@ -1591,7 +1590,7 @@
     )
     (pin "1" (uuid faf24b06-a29a-4c48-94c9-d471f9a0a471))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0114") (unit 1)
         )
@@ -1617,7 +1616,7 @@
     (pin "1" (uuid a0d3c23b-fd37-43d1-9871-023690b50599))
     (pin "2" (uuid 7a0352c0-61b2-43e3-9ac0-c168498540e2))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D7") (unit 1)
         )
@@ -1643,7 +1642,7 @@
     (pin "1" (uuid 8784f4ea-1be1-4ffa-a617-62b6835341e2))
     (pin "2" (uuid 4ced37b2-0f9d-4776-9149-a3a52b42249f))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C5") (unit 1)
         )
@@ -1669,7 +1668,7 @@
     (pin "1" (uuid 80b1c18b-48c5-443e-8f7c-562618975e5e))
     (pin "2" (uuid 636a4b3d-eccc-434e-83b2-df56df65a560))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R6") (unit 1)
         )
@@ -1695,7 +1694,7 @@
     (pin "1" (uuid fd28cacd-1713-4e29-bdce-4bcc5054d96e))
     (pin "2" (uuid 7095a1c7-52b1-4bbf-81a1-a2bdde3550cd))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "L1") (unit 1)
         )
@@ -1721,7 +1720,7 @@
     (pin "1" (uuid dfd5e554-7472-4c67-8eac-c586915c9fe3))
     (pin "2" (uuid 25371e83-26cc-48be-b235-bc9738723db3))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D3") (unit 1)
         )
@@ -1747,7 +1746,7 @@
     (pin "1" (uuid 7d860491-2828-4507-8f7e-55c83e071d2d))
     (pin "2" (uuid 250deca8-2228-4454-a2df-0c9b6875a8d2))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C4") (unit 1)
         )
@@ -1772,7 +1771,7 @@
     )
     (pin "1" (uuid 1b308255-756c-4740-80a4-613567241f27))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0113") (unit 1)
         )
@@ -1797,7 +1796,7 @@
     )
     (pin "1" (uuid 1e25db76-6036-4629-8d1b-f630ccf2d723))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "TP1") (unit 1)
         )
@@ -1823,7 +1822,7 @@
     (pin "1" (uuid 6ce17302-1acc-44ef-954b-388efb30727a))
     (pin "2" (uuid 8aaaf40f-590d-47e7-aaa3-850d35ca7e45))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R7") (unit 1)
         )
@@ -1877,7 +1876,7 @@
     (pin "8" (uuid c04676dc-af89-4568-9231-c9d886469934))
     (pin "9" (uuid cc688cd2-08ad-4256-bba2-7e9697424f84))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U1") (unit 1)
         )
@@ -1894,7 +1893,7 @@
     (property "Value" "SMAJ18A" (at 50.8 154.94 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SMB" (at 66.04 154.94 0)
+    (property "Footprint" "Diode_SMD:D_SMC" (at 66.04 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf" (at 60.96 156.21 0)
@@ -1903,7 +1902,7 @@
     (pin "1" (uuid 3962aa1d-0611-47fe-9ad9-ef3189fbe277))
     (pin "2" (uuid 6c162ff9-70a6-4a3b-9e17-dadf0f5f4f43))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D1") (unit 1)
         )
@@ -1929,7 +1928,7 @@
     (pin "1" (uuid 59302b0a-a7aa-41de-a232-ec503df7e7e2))
     (pin "2" (uuid 4e737013-8182-4b2c-9379-067d757bb85f))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D6") (unit 1)
         )
@@ -1955,7 +1954,7 @@
     (pin "1" (uuid 2013a229-0b8c-4105-b740-ebff66e1ac4e))
     (pin "2" (uuid 7aa041df-a4c2-44dc-a783-e4ddd2f6e4d3))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R1") (unit 1)
         )
@@ -1981,7 +1980,7 @@
     (pin "1" (uuid 8c0c1945-2832-434d-8d40-0bb09f28fdd5))
     (pin "2" (uuid c3032f8d-dd60-4b8c-b0d8-b2685038b8e7))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C2") (unit 1)
         )
@@ -2007,7 +2006,7 @@
     (pin "1" (uuid a11e1c48-e8e1-41a7-88c2-cd07817150be))
     (pin "2" (uuid 39107c27-2722-49a0-909a-c9fd96f4c6ef))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C1") (unit 1)
         )
@@ -2032,7 +2031,7 @@
     )
     (pin "1" (uuid 1a613bc6-1d83-49de-a5d1-cb6ecebc8fdf))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0116") (unit 1)
         )
@@ -2058,7 +2057,7 @@
     (pin "1" (uuid 56c3f51b-8f5a-46f4-86a9-f36a02ecf522))
     (pin "2" (uuid af7be38a-9d21-4e0a-8fbe-36aeb3572c43))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R8") (unit 1)
         )
@@ -2084,7 +2083,7 @@
     (pin "1" (uuid 3c199580-3857-4cbb-80c1-c4e0c1d91063))
     (pin "2" (uuid 11a28e6c-df1f-4064-9db0-5cba6386d2a4))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C8") (unit 1)
         )
@@ -2110,7 +2109,7 @@
     (pin "1" (uuid 68989688-3aa6-4636-a775-9b4338e7bce3))
     (pin "2" (uuid 5fbddf43-2efa-42a9-a221-73309f90a293))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C7") (unit 1)
         )
@@ -2136,7 +2135,7 @@
     (pin "1" (uuid 1624cd42-979d-4f5c-bd0e-617ab7533ac6))
     (pin "2" (uuid 617f75f7-9a4e-4043-b070-64ff248a65bc))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C14") (unit 1)
         )
@@ -2162,7 +2161,7 @@
     (pin "1" (uuid 71afea8f-7b10-4a65-91cd-ad37de8eeb42))
     (pin "2" (uuid b2cc7a96-2506-4afc-8a1f-b70900593d86))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R9") (unit 1)
         )
@@ -2187,7 +2186,7 @@
     )
     (pin "1" (uuid 4b0be1d9-1707-4338-96a5-8bac6a5fc84b))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR02") (unit 1)
         )
@@ -2212,7 +2211,7 @@
     )
     (pin "1" (uuid 1bbf0344-a952-4f00-bf3c-e7abf5c0f8ba))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0103") (unit 1)
         )
@@ -2237,7 +2236,7 @@
     )
     (pin "1" (uuid 3cfab44b-a384-4851-b1b6-b99ea550dc2e))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0112") (unit 1)
         )
@@ -2262,7 +2261,7 @@
     )
     (pin "1" (uuid cb1c1f50-fe81-4810-88a9-ad59216ce6ca))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR03") (unit 1)
         )
@@ -2288,7 +2287,7 @@
     (pin "1" (uuid 723ce793-4845-42a4-bd05-a1845d7714f6))
     (pin "2" (uuid d0d42729-3930-4442-81b1-f7db10bd7689))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R5") (unit 1)
         )
@@ -2314,7 +2313,7 @@
     (pin "1" (uuid 4cbd7873-db33-4daf-831f-89f5cb785cd7))
     (pin "2" (uuid 6bacd9ba-ac8c-4654-85ad-a3b2e6b1883b))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R2") (unit 1)
         )
@@ -2340,7 +2339,7 @@
     (pin "1" (uuid caa9fac2-dcd4-46f2-913b-e1cf8feb0abe))
     (pin "2" (uuid 486fe30e-72b7-4a49-ab90-6748d7ef6ac3))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C3") (unit 1)
         )
@@ -2365,7 +2364,7 @@
     )
     (pin "1" (uuid 5dba6236-68c4-480a-b937-b355129ab765))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0109") (unit 1)
         )
@@ -2390,7 +2389,7 @@
     )
     (pin "1" (uuid e0cc6966-35e4-4736-b37e-f674d5f42e33))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0115") (unit 1)
         )
@@ -2416,7 +2415,7 @@
     (pin "1" (uuid 4c0d1857-314a-49f1-b2b3-ee995f70e8f1))
     (pin "2" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e18))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R4") (unit 1)
         )
@@ -2441,7 +2440,7 @@
     )
     (pin "1" (uuid a2276dc9-cfbd-465f-92bc-69405935f656))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0111") (unit 1)
         )
@@ -2467,7 +2466,7 @@
     (pin "1" (uuid 7227eceb-c4b3-4af2-80ff-1ce76427cee3))
     (pin "2" (uuid 13cdb6e1-bf60-4be8-85e6-4626519a32f3))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "F1") (unit 1)
         )
@@ -2493,7 +2492,7 @@
     (pin "1" (uuid 1ed5f407-6b00-4afd-bcc9-b8e1137f574e))
     (pin "2" (uuid d1f55ea7-5d16-4c54-893a-758566e512a6))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C11") (unit 1)
         )
@@ -2518,7 +2517,7 @@
     )
     (pin "1" (uuid 4235ef72-6177-44a0-993f-93306f9c9ad4))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0102") (unit 1)
         )
@@ -2543,7 +2542,7 @@
     )
     (pin "1" (uuid 47b96755-77b4-4d1f-b7c7-e83301b841d7))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0107") (unit 1)
         )
@@ -2572,7 +2571,7 @@
     (pin "4" (uuid abd1845b-b701-42d2-b790-8e4f39d15b4b))
     (pin "5" (uuid a44e550f-0ca5-48ec-8dcc-c978efe6766f))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "Q2") (unit 1)
         )
@@ -2598,7 +2597,7 @@
     (pin "1" (uuid 3aa50b0e-4387-41c5-97a4-0ab61782f29c))
     (pin "2" (uuid a4a5efdb-c6f8-47e0-9c49-d59a4dc94900))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C12") (unit 1)
         )
@@ -2624,7 +2623,7 @@
     (pin "1" (uuid b3a39d9f-8761-4961-bd87-9b50b4afe0a1))
     (pin "2" (uuid 893e6f06-e605-4113-bb2a-dd67b0c482ef))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D5") (unit 1)
         )
@@ -2650,7 +2649,7 @@
     (pin "1" (uuid 23969068-c5c6-4776-b2be-715d39535af1))
     (pin "2" (uuid 830ff10b-51dd-4f4c-92ea-05a24a28ee40))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D4") (unit 1)
         )
@@ -2676,7 +2675,7 @@
     (pin "1" (uuid 717d8041-53f4-409c-8900-f141a9310762))
     (pin "2" (uuid 2de302a9-d25d-43eb-b427-10e9d652381e))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C9") (unit 1)
         )
@@ -2701,7 +2700,7 @@
     )
     (pin "1" (uuid c6568da2-7b8f-4dc3-adc8-3c0fc013fa81))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0108") (unit 1)
         )
@@ -2727,7 +2726,7 @@
     (pin "1" (uuid df4d7ba4-b5aa-46d1-b7d6-7681caf466d5))
     (pin "2" (uuid d9c79645-43a6-4478-ae09-bd02c8980cc7))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R3") (unit 1)
         )
@@ -2752,7 +2751,7 @@
     )
     (pin "1" (uuid 04d995df-0cbc-487b-afec-5b0631ce2d9a))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR01") (unit 1)
         )
@@ -2777,7 +2776,7 @@
     )
     (pin "1" (uuid 46a7beee-1868-4770-9917-068645ee67a5))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "TP2") (unit 1)
         )
@@ -2802,7 +2801,7 @@
     )
     (pin "1" (uuid ac4c9afa-d1c3-4b63-b272-a6af65027b57))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0110") (unit 1)
         )
@@ -2828,7 +2827,7 @@
     (pin "1" (uuid d617758c-45aa-45d9-abd2-c27738a6e8eb))
     (pin "2" (uuid 8832f848-85e0-472b-8f5e-9100d2499c3c))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C6") (unit 1)
         )
@@ -2853,7 +2852,7 @@
     )
     (pin "1" (uuid bc5a6249-d59f-4e30-a4a4-413b1c8dd6a9))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "TP3") (unit 1)
         )
@@ -2879,7 +2878,7 @@
     (pin "1" (uuid a21427a9-220b-4f1e-909b-4adba2b583a7))
     (pin "2" (uuid 0fcc6bf1-f993-4dac-a766-957c253d6f45))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C10") (unit 1)
         )
@@ -2896,7 +2895,7 @@
     (property "Value" "SMAJ28A" (at 44.45 128.27 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SMB" (at 60.96 130.81 0)
+    (property "Footprint" "Diode_SMD:D_SMC" (at 60.96 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf" (at 55.88 132.08 0)
@@ -2905,7 +2904,7 @@
     (pin "1" (uuid 388f7142-e07c-4f4d-bc2b-9831f0f28f05))
     (pin "2" (uuid 5ca885ef-0fb1-4134-a29c-92a61063db51))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D2") (unit 1)
         )
@@ -2931,7 +2930,7 @@
     (pin "1" (uuid fd5c6445-b80f-4a37-9af8-92918bb509c7))
     (pin "2" (uuid cda01e74-c07a-40cc-ae00-c3dd8f976a86))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J1") (unit 1)
         )
@@ -2957,7 +2956,7 @@
     (pin "1" (uuid 795e4fea-342e-4413-99a9-8e6a9f1f39bc))
     (pin "2" (uuid 7efe49dd-d766-40ba-add5-3299ddfb81c9))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C13") (unit 1)
         )
@@ -2982,7 +2981,7 @@
     )
     (pin "1" (uuid 7de65308-5d59-4104-b781-fe526828aab6))
     (instances
-      (project "24TO19_JYC_RM2023_V0.32_RY"
+      (project "24TO19_JYC_RM2023_V0.4_RY"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0105") (unit 1)
         )
