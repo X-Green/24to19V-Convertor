@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.0,
-          "height": 5.0,
-          "width": 5.0
+          "drill": 1.0,
+          "height": 1.4,
+          "width": 1.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 1.0
+          "min_clearance": 0.6
         }
       },
       "diff_pair_dimensions": [
@@ -415,7 +415,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "24TO19_JYC_RM2023_V0.4_RY.kicad_pro",
+    "filename": "24TO19_JYC_RM2023_V0.41_RY.kicad_pro",
     "version": 1
   },
   "net_settings": {
